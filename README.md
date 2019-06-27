@@ -1,3 +1,3 @@
 # spark-intro
 
-* [Spark Intro notebook](spark.ipynb)
+* [Spark Intro notebook](spark-setup.ipynb)
